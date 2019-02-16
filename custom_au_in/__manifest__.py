@@ -2,10 +2,10 @@
 
 
 {
-    'name': 'Custom Auto Invoice from Picking(Shipment/Delivery)',
+    'name': '2019-02-14 Custom Auto Invoice from Picking(Shipment/Delivery)',
     'version': '12.0.0.0',
     'category': 'Accounting',
-    'summary': 'This apps automatically create invoice from Picking when picking(Shipment/Delivery) get done',
+    'summary': '2019-02-14 Custom_Au_In',
     'description': """ This apps automatically create invoice from Picking when picking(Shipment/Delivery) get done
 """,
     'depends': ['sale','purchase','stock','Au_In12'],
